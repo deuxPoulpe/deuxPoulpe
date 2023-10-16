@@ -17,5 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deuxpoulpe&show_icons=true&locale=en" alt="deuxpoulpe" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deuxpoulpe&" alt="deuxpoulpe" /></p>
 
